@@ -1,3 +1,0 @@
-npx create-react-app client
-cd client
-npm install redux react-redux axios react-router-dom
